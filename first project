@@ -1,0 +1,12 @@
+=SUM(F:F)
+=COUNTA(B:B)
+=AVERAGE(F:F)
+=MIN(F:F)
+=MAX(F:F)
+=IF(F2>=500,"High Price","Standard Price")
+=SUMIF(E:E,"Electronics",F:F)
+=COUNTIF(F:F,"<100")
+=LEFT(A2,2)
+=RIGHT(A2,2)
+=MID(A2,4,3)
+
